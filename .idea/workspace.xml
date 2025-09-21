@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19147094-2589-49be-a64b-1f742c3241ad" name="Changes" comment="feat: started learning java">
-      <change afterPath="$PROJECT_DIR$/src/com/dtypes/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dtypes/Notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dtypes/RefTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/intro/Introduction.java" afterDir="false" />
+    <list default="true" id="19147094-2589-49be-a64b-1f742c3241ad" name="Changes" comment="feat: added README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dtypes/RefTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dtypes/RefTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +21,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -66,6 +69,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Zoho Preparation\Zoho Preparation" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,7 +91,23 @@
       <option name="project" value="LOCAL" />
       <updated>1758456311592</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: datatypes">
+      <option name="closed" value="true" />
+      <created>1758470018041</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758470018041</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: added README.md">
+      <option name="closed" value="true" />
+      <created>1758470181060</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758470181060</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +123,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: started learning java" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: started learning java" />
+    <MESSAGE value="feat: datatypes" />
+    <MESSAGE value="feat: added README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: added README.md" />
   </component>
 </project>

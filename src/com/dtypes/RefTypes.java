@@ -22,5 +22,30 @@ public class RefTypes {
         // we will see some important string methods in Mid Level Base
 
 
+        // 2. Arrays
+
+        // declare array
+
+        int[] arr = {1,2,3,4,5};
+        System.out.println(arr);// it will print the memory address of that object(not exactly the same address)
+
+        // loop through the array
+
+        for(int i : arr){
+            System.out.println(i);
+        }
+
+        enum Cities {
+            TENKASI, APR
+        }
+
+        System.out.println(Cities.TENKASI);
+
+        String c = "TENKASI";
+
+        System.out.println(Cities.TENKASI.name() instanceof  String);// true
+        System.out.println(Cities.TENKASI.name().equals(c));
+
+
     }
 }
