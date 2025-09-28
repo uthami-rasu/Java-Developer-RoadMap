@@ -45,6 +45,7 @@ public class RefTypes {
 
         System.out.println(Cities.TENKASI.name() instanceof  String);// true
         System.out.println(Cities.TENKASI.name().equals(c));
+        System.out.println(Cities.TENKASI.valueOf(Cities.TENKASI.name()) instanceof Enum);
 
 
     }
