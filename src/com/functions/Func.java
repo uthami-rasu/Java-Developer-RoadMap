@@ -85,6 +85,6 @@ public class Func {
         print("Array: " , Arrays.asList(1,2,3,4,5));
 
 
-        // will see other types while learning classes
+        // will see other types while learning class topic
     }
 }

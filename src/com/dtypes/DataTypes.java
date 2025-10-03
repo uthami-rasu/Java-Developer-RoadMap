@@ -40,6 +40,7 @@ public class DataTypes {
 
         System.out.println(age);
 
+
         // we cant redecalre a variable with diff datatype
         // byte age = 10;
 

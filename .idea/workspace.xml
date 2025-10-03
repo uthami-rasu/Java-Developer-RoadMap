@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19147094-2589-49be-a64b-1f742c3241ad" name="Changes" comment="feat: added README.md">
-      <change afterPath="$PROJECT_DIR$/src/com/conditional_control/ConditionalStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/conditional_control/ControlStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/conditional_control/Notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/functions/Func.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/operators/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/operators/Notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/variables/Basics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="19147094-2589-49be-a64b-1f742c3241ad" name="Changes" comment="feat: functions, variables,control statements">
+      <change afterPath="$PROJECT_DIR$/src/gfg/LastDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/OddOrEven.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zoho Preparation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Preparation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dtypes/RefTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dtypes/RefTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dtypes/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dtypes/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/functions/Func.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/functions/Func.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +40,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/uthami-rasu/Zoho-Java.git&quot;,
-    &quot;accountId&quot;: &quot;98baa700-e096-495b-b160-158f1a115da7&quot;
+    &quot;url&quot;: &quot;https://github.com/uthami-rasu/Java-Developer-RoadMap.git&quot;,
+    &quot;accountId&quot;: &quot;76d3fe54-91af-4a6b-ab88-48fe05130178&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -68,11 +62,14 @@
     "Application.DataTypes.executor": "Run",
     "Application.Func.executor": "Run",
     "Application.IFStatements.executor": "Run",
+    "Application.LastDigit.executor": "Run",
+    "Application.OddOrEven.executor": "Run",
     "Application.RefTypes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/UR7/Java-Developer-RoadMap",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -121,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758470181060</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: functions, variables,control statements">
+      <option name="closed" value="true" />
+      <created>1759074555041</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759074555041</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +144,22 @@
     <MESSAGE value="feat: started learning java" />
     <MESSAGE value="feat: datatypes" />
     <MESSAGE value="feat: added README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: added README.md" />
+    <MESSAGE value="feat: functions, variables,control statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: functions, variables,control statements" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/gfg/LastDigit.java</url>
+          <line>74</line>
+          <properties class="gfg.LastDigit" method="handleCycle3">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
