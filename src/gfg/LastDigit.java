@@ -40,7 +40,7 @@ static String getCycle(int base){
         if(values.contains(base)) {
 
             cycle = key;
-
+            return;
         }
     });
 
@@ -137,7 +137,7 @@ static  int handleCycle3(int base, int power){
 
 
         cycles.put("cycle-1", Arrays.asList(0,5,6,1));
-        cycles.put("cycle-2", Arrays.asList(4));
+        cycles.put("cycle-2", Arrays.asList(4,9));
         cycles.put("cycle-3",Arrays.asList(2,3,7,8));
 
 
