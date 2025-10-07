@@ -90,7 +90,10 @@ public class str {
         printn(
                 a.split(""),
 
-                String.join("-",a.split(" "))
+                String.join("-",a.split("")),
+
+                "Razz".trim() ,
+                "Razz".strip()
         );
 
     }

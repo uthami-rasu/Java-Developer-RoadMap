@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19147094-2589-49be-a64b-1f742c3241ad" name="Changes" comment="feat: find last digit of a given number">
-      <change afterPath="$PROJECT_DIR$/src/com/Str/str.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/utils/utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gfg/EvenlyDivides.java" afterDir="false" />
+    <list default="true" id="19147094-2589-49be-a64b-1f742c3241ad" name="Changes" comment="feat: string reference">
+      <change afterPath="$PROJECT_DIR$/src/com/Arr/Arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arr/Notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Str/Notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Str/Problems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/Abstraction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/ClassesObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/Inheritance.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/Polymorphism.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gfg/LastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gfg/LastDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Str/str.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Str/str.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +64,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Basics.executor": "Run",
+    "Application.ClassesObj.executor": "Run",
     "Application.ControlStructure.executor": "Run",
     "Application.DataTypes.executor": "Run",
     "Application.EvenlyDivides.executor": "Debug",
     "Application.Func.executor": "Run",
     "Application.IFStatements.executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.Interitance.executor": "Run",
     "Application.LastDigit.executor": "Run",
     "Application.OddOrEven.executor": "Run",
+    "Application.Problems.executor": "Run",
     "Application.RefTypes.executor": "Run",
     "Application.Str.executor": "Run",
     "Application.UnitDigit.executor": "Debug",
@@ -139,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759517021731</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: string reference">
+      <option name="closed" value="true" />
+      <created>1759768995975</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759768995976</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,29 +177,30 @@
     <MESSAGE value="feat: added README.md" />
     <MESSAGE value="feat: functions, variables,control statements" />
     <MESSAGE value="feat: find last digit of a given number" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: find last digit of a given number" />
+    <MESSAGE value="feat: string reference" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: string reference" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/gfg/EvenlyDivides.java</url>
-          <line>14</line>
+          <line>12</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/gfg/EvenlyDivides.java</url>
-          <line>16</line>
+          <line>14</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/gfg/EvenlyDivides.java</url>
-          <line>20</line>
+          <line>18</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/gfg/EvenlyDivides.java</url>
-          <line>25</line>
+          <line>23</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
